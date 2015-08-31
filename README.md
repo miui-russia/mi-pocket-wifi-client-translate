@@ -10,5 +10,5 @@ Xiaomi Pocket WiFi translate for non-Chinese users
 
 ## Credit & License
 * This project is a translator for non-Chinese users 
-    who want to use original XiaoMi Products which non-translation yet.
+    who want to use original XiaoMi Products which no translated yet.
 * The resource files were extracted from MiWiFi.exe which owned by `mi.com` 
