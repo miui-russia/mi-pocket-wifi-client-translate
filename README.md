@@ -1,6 +1,11 @@
 # mi-pocket-wifi-client-translate
 Xiaomi Pocket WiFi translate for non-Chinese users
 
+## Prerequisite
+
+* [Mi Pocket Wifi installation](http://www.miwifi.com/miwifi_download.html)
+* This resource files based on version 2.4.0.839
+
 ## Install instruction
 
 * get this project by `git clone` or `download zip`
